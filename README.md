@@ -1,3 +1,10 @@
 # Progetto_JConsigli
 
-scrivo qualcosa
+
+
+
+
+Compito di Lanzi:
+Suddivisione classi, scrittura classi, interfaccia grafica, elaborazione dei threads.
+
+
