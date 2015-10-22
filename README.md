@@ -7,3 +7,5 @@ Compito di Vittorio Larovere:
 
 Compito di Andrea Lanzi:
   Suddivisione classi, scrittura classi, interfaccia grafica, elaborazione dei threads.
+
+Tempi di consegna: compito dato 14 settembre 2015 e consegnato il 5 ottobre 2015.
